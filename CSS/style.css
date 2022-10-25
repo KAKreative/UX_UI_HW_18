@@ -7,12 +7,6 @@ header, section, footer{
   max-width: 1200px;
   margin: 0 auto;
 }
-.inline-block{
-    display:inline-block;
-    vertical-align: top;
-    padding-top: 18px;
-    padding-left: 30px;
-   }
 h1{
   font-family: Baskerville, Times New Roman, serif;
    font-size: 65px;
@@ -98,10 +92,8 @@ margin-bottom: 36px;
    font-family: 'Baskerville' Times New Roman, serif;
    font-size: 18px;
    font-weight: normal;
-   
-  
   }
- 
+  
   .content{
     /* padding: 50px; */
     background-color:#71C5BD;
@@ -109,9 +101,7 @@ margin-bottom: 36px;
      /*max-width: 500px;*/
      margin: 0 auto;
      font-family: Poppins, SF Pro, Sofia Pro, sans-serif;
-     font-size: 18px;
-     
-    
+     font-size: 18px; 
   }
  .heroImg{
    padding: 1px 0px;
